@@ -22,10 +22,10 @@ description: >
 language: "en"
 
 # A default image for your site, e.g. for social-media snippets
-image: "avatar.png"
+image: "reading.png"
 
 # The logo for your site, if you have one
-logo: "logo.png"
+logo: "reading.png"
 
 # The final, canonical address of your live site
 url: "https://onedayonebook.org"
