@@ -1,7 +1,4 @@
 ---
-title: Home
-description: ""
-style: home
 ---
 
 # One Day. One&nbsp;Book.
