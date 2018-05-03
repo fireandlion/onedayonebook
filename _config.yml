@@ -4,7 +4,7 @@
 # Set baseurl mainly for GitHub Pages URL.
 # If using a custom domain and the site is not
 # in a subfolder, leave this empty.
-baseurl: /jekyll-starter
+baseurl: /onedayonebook
 
 # Set pretty permalinks, not Jekyll default 'date'
 permalink: pretty

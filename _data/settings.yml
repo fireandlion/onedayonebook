@@ -3,13 +3,18 @@
 # {{ site.data.settings.name }}
 
 # The main name of your site
-name: "Jekyll Starter"
+name: "One Day. One Book."
 
 # A tagline for your site, often shown with the name
-tagline: "Get up and running quickly"
+tagline: "Creating African children's books together"
 
 # A description of your site, e.g. for social-media snippets
-description: "This is a website for our team."
+description: >
+  In two separate events on 2 June and 9 June 2018, in Gauteng, 
+  teams of volunteer creative professionals will gather to create new children's books 
+  in African languages, to be translated, printed for thousands of children, 
+  and made freely available online. Everyone is a volunteer on the day, giving our time 
+  and talent to get more books to more children.
 
 # The main language of your site. Use the IANA language subtag.
 # See https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -23,10 +28,10 @@ image: "avatar.png"
 logo: "logo.png"
 
 # The final, canonical address of your live site
-url: "http://example.com"
+url: "https://onedayonebook.org"
 
 # Your Google Analytics ID, if you're using Google Analytics
 google-analytics-id: "UA-00000000-0"
 
 # Your email address, e.g. for the contact form to use
-email: "info@example.com"
+email: "info@onedayonebook.org"

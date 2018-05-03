@@ -1,8 +1,8 @@
 // Masthead
 
 .masthead {
-	background-color: $background-color-mid;
-	color: $text-color-dark;
+	background-color: $background-color-dark;
+	color: $text-color-mid;
 	display: table;
 	height: 2em;
 	overflow-y: hidden; // Prevents horizontal scrolling
@@ -11,7 +11,8 @@
 	z-index: 2; // above the nav bar
 	.logo {
 		// Template styles assume a square logo
-		display: table-cell;
+		// display: table-cell;
+		display: none;
 		padding: 0.5em;
 		width: 2em;
 		vertical-align: middle;

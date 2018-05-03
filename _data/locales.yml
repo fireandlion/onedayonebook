@@ -138,7 +138,7 @@ en:
   excerpt:
     more: "More"
   footer:
-    credit: "Built with the [Fire and Lion](https://fireandlion.com) [Jekyll starter template](https://github.com/fireandlion/jekyll-starter)."
+    credit: "Hosted by [Room to Read](http://roomtoread.org). Managed by [Fire and Lion](https://fireandlion.com). Email [info@onedayonebook.org](mailto:info@onedayonebook.org)."
   input:
     send: "Send"
     submit: "Submit"

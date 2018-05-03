@@ -7,12 +7,3 @@
 #     - label: "Our team"
 #       link: "team"
 
-- label: "Home"
-  link: ""
-- label: "About us"
-  link: "about"
-  submenu:
-    - label: "Our team"
-      link: "about#our-team"
-- label: "Contact us"
-  link: "contact"

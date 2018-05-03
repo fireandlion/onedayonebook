@@ -10,16 +10,16 @@
 @charset "utf-8";
 
 // Sizes
-$content-width: 40em;
+$content-width: 35em;
 $side-nav-width: 10em;
 $dropdown-nav-width: 10em;
 $line-height: 1.4;
-$border-radius: 0.02em;
+$border-radius: 0.05em;
 
 // Fonts
 $font-size: 1.2em;
-$font-main: "Lato", sans-serif;
-$font-secondary: "Lato", sans-serif;
+$font-main: "Lora", serif;
+$font-secondary: "Nunito", sans-serif;
 $side-nav-font-size: 1em;
 $dropdown-nav-font-size: 0.8em;
 $footer-font-size: 0.8em;
@@ -28,14 +28,14 @@ $caption-font-size: 0.8em;
 // Font @import or @font-face
 // Use @import to use fonts hosted elsewhere, or
 // for @font-face snippets, try https://github.com/arthurattwell/font-faces
-@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i');
+ @import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Nunito:300,800');
 
 // Colour palette
-$background-color-dark: #2d7375;
-$background-color-mid: #85c6c2;
+$background-color-dark: #0081B3;
+$background-color-mid: #A5C954;
 $background-color-light: #ffffff;
 $text-color-dark: #222222;
-$text-color-mid: #e1e1e1;
+$text-color-mid: #FFCC4E;
 $text-color-light: #ffffff;
 $side-nav-color: $background-color-light;
 $dropdown-nav-color: $background-color-mid;
@@ -64,3 +64,81 @@ $break-point-l: $content-width + $side-nav-width + 10em;
 // Custom CSS
 // Add your own styles below to override
 // the template partials just imported.
+
+// No menu
+.nav-wrapper {
+	display: none;
+}
+
+// Nothing in masthead
+.masthead {
+	.logo, .identity {
+		display: none;
+	}
+}
+
+body {
+	background-image: url('../images/reading.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+	background-size: 100px;
+	@media only screen and (min-width: $break-point-l) {
+		background-size: 200px;
+	}
+}
+
+// Headings
+h1, h2, h {
+	color: $background-color-mid;
+	text-align: center;
+}
+h1 {
+	font-size: 2em;
+	@media only screen and (min-width: $break-point-l) {
+		font-size: 3em;
+	}
+}
+p, ol, ul {
+	font-family: $font-secondary;
+	font-weight: 400;
+}
+strong {
+	font-weight: 800;
+}
+.button {
+	display: inline-block;
+	padding: 0.5em;
+	background-color: $background-color-dark;
+	border-radius: $border-radius;
+	margin-left: 50%;
+	transform: translatex(-50%);
+	&:hover {
+		background-color: $background-color-mid;
+	}
+	&, a {
+		color: $text-color-light;
+		font-weight: 800;
+	}
+}
+a {
+	color: $background-color-dark;
+}
+.footer {
+	a {
+		color: inherit;
+		text-decoration: underline;
+	}
+}
+.cta-list {
+	list-style-type: none;
+	li {
+		&:before {
+			content: "\2022";
+			color: $text-color-mid;
+			padding-right: 0.5em;
+			font-size: 1.3em;
+			line-height: 100%;
+		}
+	}
+}
