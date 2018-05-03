@@ -1,0 +1,43 @@
+# Only store settings here that must be in config.yml,
+# otherwise put them in _data/settings.yml.
+
+# Set baseurl mainly for GitHub Pages URL.
+# If using a custom domain and the site is not
+# in a subfolder, leave this empty.
+baseurl: /jekyll-starter
+
+# Set pretty permalinks, not Jekyll default 'date'
+permalink: pretty
+
+# Jekyll shouldn't process these files
+exclude: [
+README.md,
+Gemfile,
+Gemfile.lock,
+package.json,
+package-lock.json,
+node_modules,
+gulpfile.js,
+eslint.json,
+CNAME,
+# images
+]
+
+keep_files: [
+# images
+]
+
+# kramdown options (see http://kramdown.gettalong.org/options.html)
+# auto_id_stripping remove formatting from headings before generating IDs
+# which keeps your IDs neat and tidy, and links persistent even if you format headings
+kramdown:
+  auto_id_stripping: true
+
+# Set default page layout for all pages
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      excerpt: ""

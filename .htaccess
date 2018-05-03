@@ -1,0 +1,8 @@
+# Send www to non-www (thanks http://stackoverflow.com/questions/234723/generic-htaccess-redirect-www-to-non-www)
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]

@@ -1,0 +1,32 @@
+# This file stores various settings for your site.
+# You can include the values of these fields in markdown, e.g.:
+# {{ site.data.settings.name }}
+
+# The main name of your site
+name: "Jekyll Starter"
+
+# A tagline for your site, often shown with the name
+tagline: "Get up and running quickly"
+
+# A description of your site, e.g. for social-media snippets
+description: "This is a website for our team."
+
+# The main language of your site. Use the IANA language subtag.
+# See https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+# or lookup here: https://r12a.github.io/app-subtags/
+language: "en"
+
+# A default image for your site, e.g. for social-media snippets
+image: "avatar.png"
+
+# The logo for your site, if you have one
+logo: "logo.png"
+
+# The final, canonical address of your live site
+url: "http://example.com"
+
+# Your Google Analytics ID, if you're using Google Analytics
+google-analytics-id: "UA-00000000-0"
+
+# Your email address, e.g. for the contact form to use
+email: "info@example.com"

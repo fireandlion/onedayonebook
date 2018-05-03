@@ -1,0 +1,66 @@
+---
+---
+
+// Sass styles for Fire and Lion's Jekyll starter template.
+// These styles are written to be mobile-first. That is,
+// they define site design on small screens. Then, at the end
+// of this document, we use media queries to change those designs
+// for large screens.
+
+@charset "utf-8";
+
+// Sizes
+$content-width: 40em;
+$side-nav-width: 10em;
+$dropdown-nav-width: 10em;
+$line-height: 1.4;
+$border-radius: 0.02em;
+
+// Fonts
+$font-size: 1.2em;
+$font-main: "Lato", sans-serif;
+$font-secondary: "Lato", sans-serif;
+$side-nav-font-size: 1em;
+$dropdown-nav-font-size: 0.8em;
+$footer-font-size: 0.8em;
+$caption-font-size: 0.8em;
+
+// Font @import or @font-face
+// Use @import to use fonts hosted elsewhere, or
+// for @font-face snippets, try https://github.com/arthurattwell/font-faces
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i');
+
+// Colour palette
+$background-color-dark: #2d7375;
+$background-color-mid: #85c6c2;
+$background-color-light: #ffffff;
+$text-color-dark: #222222;
+$text-color-mid: #e1e1e1;
+$text-color-light: #ffffff;
+$side-nav-color: $background-color-light;
+$dropdown-nav-color: $background-color-mid;
+$footer-background-color: $background-color-mid;
+
+// Media query breakpoints
+$break-point-l: $content-width + $side-nav-width + 10em;
+
+// Import partials
+// These import snippets from _sass.
+// Comment out ones you definitely don't need.
+@import "wrappers";
+@import "typography";
+@import "masthead";
+@import "nav";
+@import "footer";
+@import "input";
+@import "verse";
+@import "gallery";
+@import "toc";
+@import "page-nav";
+@import "excerpts";
+@import "polyfills";
+@import "print";
+
+// Custom CSS
+// Add your own styles below to override
+// the template partials just imported.

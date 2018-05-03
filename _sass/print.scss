@@ -1,0 +1,12 @@
+// Styles when printed out
+@media print {
+	body {
+		background-color: white;
+	}
+	.footer {
+		display: none;
+	}
+	button, a.button {
+		display: none;
+	}
+}

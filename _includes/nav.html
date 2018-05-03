@@ -1,0 +1,15 @@
+{% comment %} Edit your menu in _data/menu.yml. {% endcomment %}
+
+    <div class="nav-wrapper">
+
+        {% comment %} For mobile, this technique creates a clickable button. {% endcomment %}
+        <label for="show-menu" class="show-menu">&#x2261;</label>
+        <input type="checkbox" id="show-menu" role="button">
+
+        <nav>
+            <ul>
+                {% include nav-list.html %}
+            </ul>
+        </nav>
+
+    </div>
