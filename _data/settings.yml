@@ -6,7 +6,7 @@
 name: "One Day. One Book."
 
 # A tagline for your site, often shown with the name
-tagline: "Creating African children's books together"
+tagline: "Creating children's books together"
 
 # A description of your site, e.g. for social-media snippets
 description: >
@@ -22,7 +22,7 @@ description: >
 language: "en"
 
 # A default image for your site, e.g. for social-media snippets
-image: "poster.png"
+image: "poster.jpg"
 
 # The logo for your site, if you have one
 logo: "reading.png"

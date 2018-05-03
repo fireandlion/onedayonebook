@@ -33,7 +33,7 @@ $caption-font-size: 0.8em;
 // Colour palette
 $background-color-dark: #0081B3;
 $background-color-mid: #A5C954;
-$background-color-light: #ffffff;
+$background-color-light: #ece7e2;
 $text-color-dark: #222222;
 $text-color-mid: #FFCC4E;
 $text-color-light: #ffffff;
@@ -67,13 +67,13 @@ $break-point-l: $content-width + $side-nav-width + 10em;
 
 // No menu
 .nav-wrapper {
-	display: none;
+	// display: none;
 }
 
 // Nothing in masthead
 .masthead {
 	.logo, .identity {
-		display: none;
+		// display: none;
 	}
 }
 
@@ -141,4 +141,7 @@ a {
 			line-height: 100%;
 		}
 	}
+}
+img {
+	max-width: 100%;
 }

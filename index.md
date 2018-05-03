@@ -14,7 +14,7 @@ invites experienced illustrators and designers to join us on **2&nbsp;June** or 
 * Create a beautiful gift for the world
 {:.cta-list}
 
-You'll be part of a writer–illustrator–designer team, who will create a finished book in one day. You'll be assisted by professional facilitators and editors, and fuelled by good food and amazing company.
+You'll be part of a writer–illustrator–designer team, who will **create a finished book in one day**. You'll be assisted by professional facilitators and editors, and fuelled by good food and amazing company.
 
 The book you create will be translated, printed for thousands of children, and made freely available online. Everyone is a volunteer on the day, giving our time and talent to get more books to more children.
 
@@ -29,6 +29,11 @@ Applications close on 17 May 2018, and successful applicants will be notified by
 [Apply now](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link)
 {:.button}
 
+## Spread the word
+
+You can help by spreading the word. Share the link to this page, or post this image to Instagram, Twitter and Facebook.
+
+{% include image file="poster.jpg" %}
 
 ## Background
 
