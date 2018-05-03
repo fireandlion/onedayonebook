@@ -1,6 +1,6 @@
-# A starter template for a Jekyll site
+# One Day One Book
 
-This is a template for creating a website with Jekyll. We use it at Fire and Lion (http://fireandlion.com).
+This site was built from Fire and Lion's [Jekyll Starter](https://github.com/fireandlion/jekyll-starter) template.
 
 ## Usage
 
@@ -31,9 +31,9 @@ To create your own copy of the site to play with:
 
 1. Fork the repository on GitHub.
 2. In your fork's repository settings, activate GitHub Pages.
-3. On GitHub, open the `_config.yml` file and change the `baseurl` line to `baseurl: "/jekyll-starter"`.
+3. On GitHub, open the `_config.yml` file and change the `baseurl` line to `baseurl: "/onedayonebook"`.
 4. Edit your files on GitHub.com directly, or use [prose.io](https://prose.io). When you use prose.io, make sure you're editing *your fork*, and not the original repository.
-5. Your site and changes you make will be live at `username.github.io/jekyll-starter`, where `username` is your GitHub username.
+5. Your site and changes you make will be live at `username.github.io/onedayonebook`, where `username` is your GitHub username.
 6. To submit your changes to the original repository, create a Pull Request on your repository on GitHub.
 
 ### Main site pages
