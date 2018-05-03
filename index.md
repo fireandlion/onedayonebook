@@ -1,4 +1,5 @@
 ---
+title: ""
 ---
 
 # One Day. One&nbsp;Book.
