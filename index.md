@@ -5,7 +5,7 @@ title: ""
 # One Day. One&nbsp;Book.
 
 Room to Read, in association with Book Dash and the REACH for Reading Trust,
-invites experienced illustrators and designers to join us on **2&nbsp;June** or **9&nbsp;June 2018** for a book-making adventure.
+invites experienced illustrators and designers to join us in Gauteng on **2&nbsp;June** or **9&nbsp;June 2018** for a book-making adventure.
 
 * Collaborate with top creatives
 * Learn from leading publishing professionals
@@ -21,6 +21,8 @@ The book you create will be translated, printed for thousands of children, and m
 You can participate on a team as a designer or illustrator, or you can assist the teams as an editor, photographer, videographer, tech-support person, social-media storyteller or logistics support.
 
 You will participate **from 9am to 9pm on Saturday 2 June or 9 June.** (You'll specify your preferred date when you apply.)
+
+The venue in Gauteng will be announced here soon. 
 
 Applications close on 17 May 2018, and successful applicants will be notified by 23 May.
 
