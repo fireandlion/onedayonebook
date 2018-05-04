@@ -12,15 +12,15 @@ invites experienced illustrators and designers to join us on **2&nbsp;June** or 
 * Create a beautiful gift for the world
 {:.cta-list}
 
-You'll be part of a writer–illustrator–designer team, who will **create a finished book in one day**. You'll be assisted by professional facilitators and editors, and fuelled by good food and amazing company.
+You'll be part of a writer-illustrator-designer team who will **create a finished book in one day**. You'll be assisted by professional facilitators and editors, and fuelled by great food and amazing company.
 
 The book you create will be translated, printed for thousands of children, and made freely available online. Everyone is a volunteer on the day, giving our time and talent to get more books to more children.
 
 ## Participate
 
-You could participate as a designer, illustrator, editor, photographer, videographer, tech support person, social-media storyteller, or as logistics support.
+You can participate on a team as a designer or illustrator, or you can assist the teams as an editor, photographer, videographer, tech-support person, social-media storyteller or logistics support.
 
-You will participate **from 9am to 9pm on Saturday 2 June or 9 June.** (You'll specify your preferred dates when you apply.)
+You will participate **from 9am to 9pm on Saturday 2 June or 9 June.** (You'll specify your preferred date when you apply.)
 
 Applications close on 17 May 2018, and successful applicants will be notified by 23 May.
 
