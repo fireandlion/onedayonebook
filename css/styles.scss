@@ -113,12 +113,22 @@ strong {
 	border-radius: $border-radius;
 	margin-left: 50%;
 	transform: translatex(-50%);
+	cursor: pointer;
 	&:hover {
 		background-color: $background-color-mid;
 	}
 	&, a {
 		color: $text-color-light;
 		font-weight: 800;
+	}
+	&.apply {
+		background-color: #ff7e4c;
+		font-size: 1.5em;
+		box-shadow: 0 0 5px #999999;
+		&:hover {
+			background-color: #ff5919;
+			box-shadow: 0 0 5px #999999;
+		}
 	}
 }
 a {

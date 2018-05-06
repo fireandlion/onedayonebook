@@ -25,7 +25,7 @@ You will participate **from 9am to 9pm on Saturday 2 June or 9 June.** (You'll s
 Applications close on 17 May 2018, and successful applicants will be notified by 23 May.
 
 [Apply now](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link)
-{:.button}
+{:.button.apply}
 
 ## Spread the word
 
