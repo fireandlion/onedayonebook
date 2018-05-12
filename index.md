@@ -27,6 +27,8 @@ Applications close on 17 May 2018, and successful applicants will be notified by
 [Apply now](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link)
 {:.button.apply}
 
+**Having trouble applying?** Just email [info@onedayonebook.org](mailto:info@onedayonebook.org) by 16 May and we'll help you get it done!
+
 ## Spread the word
 
 You can help by spreading the word. Share the link to this page, or post this image to Instagram, Twitter and Facebook.
