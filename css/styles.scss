@@ -65,18 +65,6 @@ $break-point-l: $content-width + $side-nav-width + 10em;
 // Add your own styles below to override
 // the template partials just imported.
 
-// No menu
-.nav-wrapper {
-	// display: none;
-}
-
-// Nothing in masthead
-.masthead {
-	.logo, .identity {
-		// display: none;
-	}
-}
-
 body {
 	background-image: url('../images/reading.png');
 	background-repeat: no-repeat;
@@ -154,4 +142,12 @@ a {
 }
 img {
 	max-width: 100%;
+}
+nav {
+	.social {
+		clear: both;
+		img {
+			max-width: 2em;
+		}
+	}
 }
