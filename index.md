@@ -4,6 +4,8 @@ title: ""
 
 # One Day. One&nbsp;Book.
 
+> Application deadline extended! The official closing date has passed, but [**you can still apply**](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link) to take part until we have finalised teams.
+
 Room to Read, in association with Book Dash and the REACH for Reading Trust,
 invites experienced illustrators and designers to join us in **Johannesburg** on **2&nbsp;June** or **9&nbsp;June 2018** for a book-making adventure.
 
@@ -22,12 +24,10 @@ You can participate on a team as a designer or illustrator, or you can assist th
 
 You will participate **from 9am to 9pm on Saturday 2 June or 9 June.** (You'll specify your preferred date when you apply.)
 
-Applications close on 17 May 2018, and successful applicants will be notified by 23 May.
-
 [Apply now](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link)
 {:.button.apply}
 
-**Having trouble applying?** Just email [info@onedayonebook.org](mailto:info@onedayonebook.org) by 16 May and we'll help you get it done!
+**Having trouble using the application form?** Just email [info@onedayonebook.org](mailto:info@onedayonebook.org) and we'll help you get it done!
 
 ## Spread the word
 

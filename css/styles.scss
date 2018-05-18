@@ -34,6 +34,7 @@ $caption-font-size: 0.8em;
 $background-color-dark: #0081B3;
 $background-color-mid: #A5C954;
 $background-color-light: #ece7e2;
+$notification-color: #ff7e4c;
 $text-color-dark: #222222;
 $text-color-mid: #FFCC4E;
 $text-color-light: #ffffff;
@@ -110,7 +111,7 @@ strong {
 		font-weight: 800;
 	}
 	&.apply {
-		background-color: #ff7e4c;
+		background-color: $notification-color;
 		font-size: 1.5em;
 		box-shadow: 0 0 5px #999999;
 		&:hover {
@@ -149,5 +150,13 @@ nav {
 		img {
 			max-width: 2em;
 		}
+	}
+}
+// Blockquotes for boxes
+blockquote {
+	padding: 1em;
+	background-color: $notification-color;
+	& *:last-child {
+		margin-bottom: 0;
 	}
 }
