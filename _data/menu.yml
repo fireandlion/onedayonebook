@@ -9,9 +9,7 @@
 
 - label: "Home"
   link: ""
-- label: "Participate"
-  link: "#participate"
-- label: "Spread the word"
-  link: "#spread-the-word"
-- label: "Background"
-  link: "#background"
+- label: "Books"
+  link: "#books"
+- label: "About"
+  link: "about"

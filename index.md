@@ -1,47 +1,97 @@
 ---
-title: ""
+title: "Home"
 ---
 
 # One Day. One&nbsp;Book.
 
-> Application deadline extended! The official closing date has passed, but [**you can still apply**](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link) to take part until we have finalised teams.
+At One Day One Book events, publishers, writers, illustrators, designers, editors and supporters gathered to create children's books that anyone can freely download, share and distribute. One Day One Book is organised by Room to Read and sponsored by the REACH Trust, an initiative of the World Bank.
 
-Room to Read, in association with Book Dash and the REACH for Reading Trust,
-invites experienced illustrators and designers to join us in **Johannesburg** on **2&nbsp;June** or **9&nbsp;June 2018** for a book-making adventure.
+## Books
 
-* Collaborate with top creatives
-* Learn from leading publishing professionals
-* Create a beautiful gift for the world
-{:.cta-list}
+### Tommy the Greedy Cat
 
-You'll be part of a writer-illustrator-designer team who will **create a finished book in one day**. You'll be assisted by professional facilitators and editors, and fuelled by great food and amazing company.
+{% include image class="thumbnail" file="tommy-the-greedy-cat_leroux-ndove-fleming_cover.jpg" %}
 
-The book you create will be translated, printed for thousands of children, and made freely available online. Everyone is a volunteer on the day, giving our time and talent to get more books to more children.
+- Illustrated by Adri le Roux
+- Written by Dr M.D. Ndove
+- Designed by Jeanne Fleming
+- Edited by Alison Ziki
 
-## Participate
+Tommy lives on the scraps of food he gets from the Manala family. When the Manala family goes on holiday, how will Tommy survive?
 
-You can participate on a team as a designer or illustrator, or you can assist the teams as an editor, photographer, videographer, tech-support person, social-media storyteller or logistics support.
+### Madam Hats can't find her hat
 
-You will participate **from 9am to 9pm on Saturday 2 June or 9 June.** (You'll specify your preferred date when you apply.)
+{% include image class="thumbnail" file="madam-hats_mapatha-motau-palmer_cover.jpg" %}
 
-[Apply now](https://docs.google.com/forms/d/e/1FAIpQLScmdRQun5swYaQhnCishYX9tW-_HpPwyjafzgkU2co98Yn5bA/viewform?usp=sf_link)
-{:.button.apply}
+- Illustrated by Reshoketswe Motau
+- Written by Makaepeya Christinah Mapatha
+- Designed by RJ Palmer
+- Edited by Jocelyn Newmarch
 
-**Having trouble using the application form?** Just email [info@onedayonebook.org](mailto:info@onedayonebook.org) and we'll help you get it done!
+Madam Hats loves her hats. But what will she do when her favourite hat goes missing?
 
-## Spread the word
+### Langutani's Trick
 
-You can help by spreading the word. Share the link to this page, or post this image to Instagram, Twitter and Facebook.
+{% include image class="thumbnail" file="langutanis-trick_wallace-makhubele-sloane_cover.jpg" %}
 
-{% include image file="poster.jpg" %}
+- Illustrated by Stephen Wallace
+- Written by Langutani Christopher Makhubele
+- Designed by Caitlin Sloane
+- Edited by Alison Ziki
 
-## Background
+Langutani and his father are frustrated. The baboons come at night to eat and destroy their maize crops. Can they ever stop the baboons?
 
-[Room to Read](http://roomtoread.org) is working with small-scale South African publishers to create original stories in African languages. These events will turn those stories into beautiful books, which will be distributed for free online and printed for thousands of children.
+### Pig's Wedding 
 
-The writers have already been working hard on their stories. On book-making day, volunteer designers, illustrators and editors will join the team to turn them into books.
+{% include image class="thumbnail" file="pigs-wedding_mudau-wepener-preston_cover.jpg" %}
 
-This event is hosted by [Room to Read](http://roomtoread.org), sponsored by the [REACH Trust](http://www.worldbank.org/en/programs/reach), and draws on the amazing example set by [Book Dash](https://bookdash.org), which has shown the impact that experienced creatives can have on children's literacy. Book Dash has generously supported the development of these events. To see their books, created by creatives like you, visit [bookdash.org](https://bookdash.org).
+- Illustrated by Imile Wepener
+- Written by Makotla Mudau
+- Designed by Vivienne Preston
+- Edited by Katherine Hofmeyr
 
-For enquiries, email [info@onedayonebook.org](mailto:info@onedayonebook.org).
+Pig and Cat adore each other, and they want to get married. But can their love survive when their backgrounds are so very different?
 
+### Hide and Seek
+
+{% include image class="thumbnail" file="hide-and-seek_baadjie-somwe-jardimwedepohl_cover.jpg" %}
+
+- Illustrated by Joseph Somwe
+- Written by Munene Baadjie
+- Designed by Jess Jardim-Wedephol
+- Edited by Anna Stroud
+
+Mouse drives Cat crazy, because she always wins at hide-and-seek. But one day, Cat comes up with a clever plan.
+
+### The Lonely Prickle Tree
+
+{% include image class="thumbnail" file="the-lonely-prickle-tree_maluleke-bosa-ayres_cover.jpg" %}
+
+- Illustrated by Subi Bosa
+- Written by Nghamula Maluleke
+- Designed by Aimee Ayres
+- Edited by Jocelyn Newmarch
+
+None of the other trees want to play with Prickle Tree. Will he find a friend?
+
+### The Birthday Present
+
+{% include image class="thumbnail" file="the-birthday-present_malebana-mothle-vandenheever_cover.jpg" %}
+
+- Illustrated by Kholofelo Mothle
+- Written by Kwena Richard Malebana
+- Designed by Daniella van den Heever
+- Edited by Anna Stroud
+
+Kgošigadi struggles to find her friend the perfect birthday present, until she sees something sparkle in the sun. 
+
+### Fish Finds a Friend
+
+{% include image class="thumbnail" file="fish-finds-a-friend_smit-masela-jacobs_cover.jpg" %}
+
+- Illustrated by Gerda Smit
+- Written by Moyahaba Masela
+- Designed by Jennifer Jacobs
+- Edited by Katherine Hofmeyr
+
+Poor Fish is terribly lonely. All he wants is a friend who will love him just as he is. Will he find someone to play with?
