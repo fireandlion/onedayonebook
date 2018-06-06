@@ -104,7 +104,7 @@ Nono’s aunt is unkind to her, and she gives Nono a lot of work to do. Then sud
 
 River Nana is unhappy about how the people of the village have been treating her. How can Cilo the herdboy help to  change that?
 
-### The Suitcuase
+### The Suitcase
 
 Lwazi can easily win the traditional dancing competition at his school, but he doesn’t have an outfit. How can Lwazi find a traditional outfit to enter the contest?
 
