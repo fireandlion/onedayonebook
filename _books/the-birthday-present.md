@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Birthday Present"
+description: "Kgošigadi struggles to find her friend the perfect birthday present, until she sees something sparkle in the sun."
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Kwena Richard Malebana"
+  illustrator: "Kholofelo Mothle"
+  designer: "Daniella van den Heever"
+  editor: "Anna Stroud"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-birthday-present_malebana-mothle-vandenheever_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,5 @@ images:
 ---
 
 {% include book-page.html %}
+ 
 

@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Hungry Ant"
+description: "Mother Ant’s family is hungry. Where can she possibly find food to feed her hungry children?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Matamba Azwifaneli Sellinah"
+  illustrator: "Sinomonde Ngwane"
+  designer: "Vivienne Preston"
+  editor: "Alison Ziki"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-hungry-ant_ngwane-azwifaneli-sellinah-preston_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,7 @@ images:
 ---
 
 {% include book-page.html %}
+
+
+
 

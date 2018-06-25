@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Pig's Wedding"
+description: "Pig and Cat adore each other, and they want to get married. But can their love survive when their backgrounds are so very different?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Makotla Mudau"
+  illustrator: "Imile Wepener"
+  designer: "Vivienne Preston"
+  editor: "Katherine Hofmeyr"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "pigs-wedding_mudau-wepener-preston_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,5 @@ images:
 ---
 
 {% include book-page.html %}
+
 

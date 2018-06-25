@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Wewe and the Train"
+description: "Wewe loves the sound of the train. He thinks it calls out his name each time it passes his house. One day, his mother has a surprise for him. What could it be?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Busile Ndlovu"
+  illustrator: "Shayne Capazorio"
+  designer: "Leah Prinsloo"
+  editor: "Alison Ziki"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "wewe-and-the-train_ndlovu-capazorio-prinsloo_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,5 @@ images:
 ---
 
 {% include book-page.html %}
+
 

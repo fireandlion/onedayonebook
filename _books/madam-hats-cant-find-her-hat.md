@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Madam Hats can't find her hat"
+description: "Madam Hats loves her hats. But what will she do when her favourite hat goes missing?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Makaepeya Christinah Mapatha"
+  illustrator: "Reshoketswe Motau"
+  designer: "RJ Palmer"
+  editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "madam-hats_mapatha-motau-palmer_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,3 @@ images:
 ---
 
 {% include book-page.html %}
-

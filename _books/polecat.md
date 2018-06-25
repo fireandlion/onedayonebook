@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Polecat"
+description: "Polecat is smelly and rude. He thinks he is better than others. Is he as perfect as he thinks?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Timothy Mongwe"
+  illustrator: "Reshoketwe Motau"
+  designer: "Steven Mckimmie"
+  editor: "Fiona Wallace"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "polecat_mongwe-motau-mckimmie_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,6 @@ images:
 ---
 
 {% include book-page.html %}
+
+
 

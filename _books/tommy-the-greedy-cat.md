@@ -13,7 +13,7 @@ contributors:
 original-language: ""
 links:
   publisher-url: ""
-  source files: ""
+  source-files: ""
   pdf-ebook: ""
 images:
   cover: "tommy-the-greedy-cat_leroux-ndove-fleming_cover.jpg"

@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Most Beautiful Animal"
+description: "Zebra thinks she is the most beautiful of all the animals. But what will happen when Chameleon enters the Grand Animal Beauty Contest?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Hulisani Olga Tshisevhe"
+  illustrator: "Imile Wepener"
+  designer: "Louisa Pieters"
+  editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-most-beautiful-animal_tshisevhe-wepener-pieters_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,7 @@ images:
 ---
 
 {% include book-page.html %}
+
+
+
 

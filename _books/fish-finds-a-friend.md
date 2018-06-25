@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Fish Finds a Friend"
+description: "Poor Fish is terribly lonely. All he wants is a friend who will love him just as he is. Will he find someone to play with?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Moyahaba Masela"
+  illustrator: "Gerda Smit"
+  designer: "Jennifer Jacobs"
+  editor: "Katherine Hofmeyr"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "fish-finds-a-friend_smit-masela-jacobs_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""

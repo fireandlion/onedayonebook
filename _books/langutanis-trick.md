@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Langutani's Trick"
+description: "Langutani and his father are frustrated. The baboons come at night to eat and destroy their maize crops. Can they ever stop the baboons?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Langutani Christopher Makhubele"
+  illustrator: "Stephen Wallace"
+  designer: "Caitlin Sloane"
+  editor: "Alison Ziki"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "langutanis-trick_wallace-makhubele-sloane_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""

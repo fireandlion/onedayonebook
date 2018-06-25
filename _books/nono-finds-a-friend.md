@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Nono Finds a Friend"
+description: "Nono’s aunt forces her to work hard all day. One day Nono finds a tiny girl who promises to help her."
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Busie Maphumulo"
+  illustrator: "Jess Jardim-Wedepohl"
+  designer: "Jess Jardim-Wedepohl"
+  editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "nono-finds-a-friend_maphumulo-jardim-wedepohl_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,6 @@ images:
 ---
 
 {% include book-page.html %}
+
+
 

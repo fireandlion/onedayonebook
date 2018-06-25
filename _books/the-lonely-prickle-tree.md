@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Lonely Prickle Tree"
+description: "None of the other trees want to play with Prickle Tree. Will he find a friend?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Nghamula Maluleke"
+  illustrator: "Subi Bosa"
+  designer: "Aimee Ayres"
+  editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-lonely-prickle-tree_maluleke-bosa-ayres_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,6 @@ images:
 ---
 
 {% include book-page.html %}
+
+
 

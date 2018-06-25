@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Lion and Warthog"
+description: "Warthog rescues Lion from the snare, but the ungrateful Lion now wants to eat Warthog. Luckily, clever Rabbit has a plan and he comes to Warthog’s rescue!"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Hlengiwe Ngcongo"
+  illustrator: "Joseph Somwe"
+  designer: "Caitlin Sloane"
+  editor: "Alison Ziki"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "lion-and-warthog_somwe-ngcongo-sloane_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,8 @@ images:
 ---
 
 {% include book-page.html %}
+
+
+
+
 

@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Promise"
+description: "River Nanda is angry with the villagers. Can Cilo the herdboy keep his promise?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Mandla Ndlovu"
+  illustrator: "Subi Bosa"
+  designer: "Jennifer Jacobs"
+  editor: "Fiona Wallace"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-promise_bosa-ndlovu-jacobs_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,3 @@ images:
 ---
 
 {% include book-page.html %}
-

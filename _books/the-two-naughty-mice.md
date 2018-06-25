@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Two Naughty Mice"
+description: "Two little mice love nothing more than getting into trouble. What will they do next?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Thembekile Felicia Malibe"
+  illustrator: "Gerda Smit"
+  designer: "Jennifer Jacobs"
+  editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-two-naughty-mice_smit-malibe-jacobs_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,8 @@ images:
 ---
 
 {% include book-page.html %}
+
+
+
+
 

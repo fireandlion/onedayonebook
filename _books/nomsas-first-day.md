@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Nomsa’s First Day"
+description: "Nomsa is very excited for her first day of school. But when she meets Norman, she learns her first lesson in a very unexpected way!"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Nomsa Tshililo"
+  illustrator: "Aimee Ayres"
+  designer: "Tshebetso Ditabo"
+  editor: "Fiona Wallace"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "nomsas-first-day_ayres-tshililo-ditabo_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,8 @@ images:
 ---
 
 {% include book-page.html %}
+
+
+
+
 

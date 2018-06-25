@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "The Greedy Dog"
+description: "Dog loves his friend Cat, but he loves to eat even more! How long will Cat put up with her greedy friend before something goes wrong?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Nokuthula Ndlovu"
+  illustrator: "Cclaire Ingram"
+  designer: "Karma Bosman and Riaan Coetzee"
+  editor: "Katherine Hofmeyr"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "the-greedy-dog_ingram-ndlovu-bosman-coetzee_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,6 @@ images:
 ---
 
 {% include book-page.html %}
+
+
 

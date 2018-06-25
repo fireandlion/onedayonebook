@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Nyamvula is Thirsty"
+description: "Nyamvula is very thirsty. She can’t find water to drink anywhere. How will she finally fill her bucket?"
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Dorothy Mukhese"
+  illustrator: "Nompumelelo Mdluli"
+  designer: "Liam Longland"
+  editor: "Katherine Hofmeyr"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "nyamvula-is-thirsty_mukhese-mdluli-longland_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,5 @@ images:
 ---
 
 {% include book-page.html %}
+
 

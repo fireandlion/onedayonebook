@@ -3,10 +3,16 @@ Use footer-cell divs to create columns. {% endcomment %}
 
 		<div class="footer">
 			<div class="footer-cell">
-				<img src="{{ site.baseurl }}/images/world-bank-logo.svg">
+				<p>Funded by <a href="http://www.worldbank.org/en/programs/reach#2">the REACH program</a>, an initiative of the World Bank</p>
+				<p>
+					<img src="{{ site.baseurl }}/images/world-bank-logo.svg">
+				</p>
 			</div>
 			<div class="footer-cell">
-				<img src="{{ site.baseurl }}/images/world-bank-logo.svg">
+				<p>Room to Read has developed guidelines on 'What Makes a Great Storybook'</p>
+				<p>
+					<a href="{{ site.baseurl }}/downloads/REACH_Storybook_Recommendations_20180326.pdf" class="button">Download (5MB PDF)</a>.
+				</p>
 			</div>
 			<div class="footer-cell">
 				<p>{{ site.data.locales[site.data.settings.language].footer.credit | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>

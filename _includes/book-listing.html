@@ -1,13 +1,22 @@
 <div class="book-listing">
-	{% capture book-image %}{{ book.image }}{% endcapture %}
 
-	<h3>{{ book.title }}</h3>
-	{% include image file=book-image class="thumbnail" %}
+	<h3><a href="{{ book.url }}">{{ book.title }}</a></h3>
+
+	<a href="{{ book.url }}">
+		{% include image file=book.images.cover class="thumbnail" %}
+	</a>
+
 	<p>{{ book.description }}</p>
+
 	<ul>
 		<li>Written {% if book.original-language and book.original-language != "" %}in {{ book.original-language }}{% endif %} by {{ book.contributors.writer }}</li>
 		<li>Illustrated by {{ book.contributors.illustrator }}</li>
 		<li>Designed by {{ book.contributors.designer }}</li>
 		<li>Edited by {{ book.contributors.editor }}</li>
 	</ul>
+
+	<p>
+		<a href="{{ book.url }}" class="button">See more</a>
+	</p>
+
 </div>

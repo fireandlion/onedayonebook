@@ -1,13 +1,13 @@
 ---
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
-title: ""
-description: ""
+title: "Hide and Seek"
+description: "Mouse drives Cat crazy, because she always wins at hide-and-seek. But one day, Cat comes up with a clever plan."
 contributors:
-  writer: ""
-  illustrator: ""
-  designer: ""
-  editor: ""
+  writer: "Munene Baadjie"
+  illustrator: "Joseph Somwe"
+  designer: "Jess Jardim-Wedephol"
+  editor: "Anna Stroud"
   publisher: ""
   other: ""
 original-language: ""
@@ -16,7 +16,7 @@ links:
   source-files: ""
   pdf-ebook: ""
 images:
-  cover: ""
+  cover: "hide-and-seek_baadjie-somwe-jardimwedepohl_cover.jpg"
   title-page: ""
   dps-1: ""
   dps-2: ""
@@ -34,4 +34,5 @@ images:
 ---
 
 {% include book-page.html %}
+
 
