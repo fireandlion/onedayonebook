@@ -1,0 +1,111 @@
+<h1>{{ page.title }}</h1>
+
+{% if page.original-language and page.original-language != "" %}
+	<p class="subheadline">Originally written in {{ page.original-language }}.</p>
+{% endif %}
+
+{{ page.description }}
+
+<ul>
+	{% if page.contributors.writer and page.contributors.writer != "" %}
+		<li>Written by {{ page.contributors.writer }}</li>
+	{% endif %}
+	{% if page.contributors.illustrator and page.contributors.illustrator != "" %}
+		<li>Illustrated by {{ page.contributors.illustrator }}</li>
+	{% endif %}
+	{% if page.contributors.designer and page.contributors.designer != "" %}
+		<li>Designed by {{ page.contributors.designer }}</li>
+	{% endif %}
+	{% if page.contributors.editor and page.contributors.editor != "" %}
+		<li>Edited by {{ page.contributors.editor }}</li>
+	{% endif %}
+</ul>
+
+{% if page.contributors.publisher and page.contributors.publisher != "" %}
+
+	{% if page.images.publisher-logo and page.images.publisher-logo != "" %}
+		{% include image file=page.images.publisher-logo class="book-publisher-logo" %}
+	{% endif %}
+
+	<p>
+		Supported by 
+			{% if page.links.publisher-url and page.links.publisher-url != "" %}
+				<a href="{{ page.links.publisher-url }}">
+			{% endif %}
+		{{ page.contributors.publisher }}
+			{% if page.links.publisher-url and page.links.publisher-url != "" %}
+				</a>
+			{% endif %}
+		</a>
+	</p>
+
+{% endif %}
+
+<div class="book-links">
+	{% if page.links.pdf-ebook and page.links.pdf-ebook != "" %}
+		<a href="{{ page.links.pdf-ebook }} class="button">Download PDF</a>
+	{% endif %}
+	{% if page.links.source-files and page.links.source-files != "" %}
+		<a href="{{ page.links.source-files }} class="button">Source files</a>
+	{% endif %}
+</div>
+
+<div class="book-images">
+
+	{% if page.images.cover and page.images.cover != "" %}
+		{% include image file=page.images.cover class="cover" %}
+	{% endif %}
+
+	{% if page.images.title-page and page.images.title-page != "" %}
+		{% include image file=page.images.title-page class="title-page" %}
+	{% endif %}
+
+	{% if page.images.dps-1 and page.images.dps-1 != "" %}
+		{% include image file=page.images.dps-1 class="dps-1" %}
+	{% endif %}
+
+	{% if page.images.dps-2 and page.images.dps-2 != "" %}
+		{% include image file=page.images.dps-2 class="dps-2" %}
+	{% endif %}
+
+	{% if page.images.dps-3 and page.images.dps-3 != "" %}
+		{% include image file=page.images.dps-3 class="dps-3" %}
+	{% endif %}
+
+	{% if page.images.dps-4 and page.images.dps-4 != "" %}
+		{% include image file=page.images.dps-4 class="dps-4" %}
+	{% endif %}
+
+	{% if page.images.dps-5 and page.images.dps-5 != "" %}
+		{% include image file=page.images.dps-5 class="dps-5" %}
+	{% endif %}
+
+	{% if page.images.dps-6 and page.images.dps-6 != "" %}
+		{% include image file=page.images.dps-6 class="dps-6" %}
+	{% endif %}
+
+	{% if page.images.dps-7 and page.images.dps-7 != "" %}
+		{% include image file=page.images.dps-7 class="dps-7" %}
+	{% endif %}
+
+	{% if page.images.dps-8 and page.images.dps-8 != "" %}
+		{% include image file=page.images.dps-8 class="dps-8" %}
+	{% endif %}
+
+	{% if page.images.dps-9 and page.images.dps-9 != "" %}
+		{% include image file=page.images.dps-9 class="dps-9" %}
+	{% endif %}
+
+	{% if page.images.dps-10 and page.images.dps-10 != "" %}
+		{% include image file=page.images.dps-10 class="dps-10" %}
+	{% endif %}
+
+	{% if page.images.dps-11 and page.images.dps-11 != "" %}
+		{% include image file=page.images.dps-11 class="dps-11" %}
+	{% endif %}
+
+	{% if page.images.copyright-page and page.images.copyright-page != "" %}
+		{% include image file=page.images.copyright-page class="copyright-page" %}
+	{% endif %}
+
+</div>

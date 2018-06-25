@@ -78,9 +78,11 @@ body {
 }
 
 // Headings
-h1, h2, h {
+h1, h2, .subheadline {
 	color: $background-color-mid;
 	text-align: center;
+	font-weight: bold;
+	font-family: $font-main;
 }
 h1 {
 	font-size: 2em;
@@ -100,8 +102,6 @@ strong {
 	padding: 0.5em;
 	background-color: $background-color-dark;
 	border-radius: $border-radius;
-	margin-left: 50%;
-	transform: translatex(-50%);
 	cursor: pointer;
 	&:hover {
 		background-color: $background-color-mid;
@@ -127,6 +127,14 @@ a {
 	a {
 		color: inherit;
 		text-decoration: underline;
+		&.button {
+			background: $background-color-dark;
+			color: $background-color-light;
+			text-decoration: none;
+		}
+	}
+	.footer-cell {
+		max-width: 15em;
 	}
 }
 .cta-list {
@@ -167,4 +175,23 @@ blockquote {
 	& *:last-child {
 		margin-bottom: 0;
 	}
+}
+
+// Book listings
+.book-listing {
+	margin-top: $line-height * 2em;
+	&:first-of-type {
+		margin-top: 0;
+	}
+}
+
+// Book pages
+.book-publisher-logo {
+	float: right;
+	max-width: 5em;
+}
+
+// Page navigation
+.page-navigation {
+	margin-top: $line-height * 2em;
 }
