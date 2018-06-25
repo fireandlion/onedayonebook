@@ -1,0 +1,13 @@
+<div class="book-listing">
+	{% capture book-image %}{{ book.image }}{% endcapture %}
+
+	<h3>{{ book.title }}</h3>
+	{% include image file=book-image class="thumbnail" %}
+	<p>{{ book.description }}</p>
+	<ul>
+		<li>Written {% if book.original-language and book.original-language != "" %}in {{ book.original-language }}{% endif %} by {{ book.contributors.writer }}</li>
+		<li>Illustrated by {{ book.contributors.illustrator }}</li>
+		<li>Designed by {{ book.contributors.designer }}</li>
+		<li>Edited by {{ book.contributors.editor }}</li>
+	</ul>
+</div>

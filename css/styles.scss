@@ -78,9 +78,11 @@ body {
 }
 
 // Headings
-h1, h2, h {
+h1, h2, .subheadline {
 	color: $background-color-mid;
 	text-align: center;
+	font-weight: bold;
+	font-family: $font-main;
 }
 h1 {
 	font-size: 2em;
@@ -167,4 +169,10 @@ blockquote {
 	& *:last-child {
 		margin-bottom: 0;
 	}
+}
+
+// Book pages
+.book-publisher-logo {
+	float: right;
+	max-width: 5em;
 }
