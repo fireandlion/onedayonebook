@@ -43,7 +43,7 @@ $dropdown-nav-color: $background-color-mid;
 $footer-background-color: $background-color-mid;
 
 // Media query breakpoints
-$break-point-l: $content-width + $side-nav-width + 10em;
+$break-point-l: $content-width + $side-nav-width + 30em;
 
 // Import partials
 // These import snippets from _sass.
@@ -194,4 +194,12 @@ blockquote {
 // Page navigation
 .page-navigation {
 	margin-top: $line-height * 2em;
+}
+
+// Printing
+@media print {
+	.book-listing {
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
 }
