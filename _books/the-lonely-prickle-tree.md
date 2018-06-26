@@ -10,7 +10,7 @@ contributors:
   editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
-original-language: ""
+original-language: "Xitsonga"
 links:
   publisher-url: ""
   source-files: ""

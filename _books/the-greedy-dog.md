@@ -10,7 +10,7 @@ contributors:
   editor: "Katherine Hofmeyr"
   publisher: ""
   other: ""
-original-language: ""
+original-language: "Siswati"
 links:
   publisher-url: ""
   source-files: ""

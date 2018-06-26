@@ -10,7 +10,7 @@ contributors:
   editor: "Alison Ziki"
   publisher: ""
   other: ""
-original-language: ""
+original-language: "Tshivenda"
 links:
   publisher-url: ""
   source-files: ""

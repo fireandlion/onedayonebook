@@ -10,7 +10,7 @@ contributors:
   editor: "Jocelyn Newmarch"
   publisher: ""
   other: ""
-original-language: ""
+original-language: "isiZulu"
 links:
   publisher-url: ""
   source-files: ""

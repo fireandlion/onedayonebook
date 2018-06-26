@@ -10,7 +10,7 @@ contributors:
   editor: "Anna Stroud"
   publisher: ""
   other: ""
-original-language: ""
+original-language: "Xitsonga"
 links:
   publisher-url: ""
   source-files: ""
