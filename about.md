@@ -2,7 +2,7 @@
 title: About
 ---
 
-## About
+# About
 
 [Room to Read](http://roomtoread.org) works with small-scale South African publishers to create original stories in African languages. At One Book One Day events, volunteer creatives turned new stories into beautiful books, which are distributed for free online and printed for thousands of children.
 

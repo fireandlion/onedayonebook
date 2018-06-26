@@ -15,7 +15,9 @@
 
 // Use this for inline images that start a paragraph 
 .image-with-caption {
+	font-style: italic;
     font-size: $caption-font-size;
+    text-align: center;
     img {
     	margin-bottom: $line-height * 0.5 * 1em;
     }
