@@ -8,7 +8,7 @@ contributors:
   illustrator: "Adri le Roux"
   designer: "Jeanne Fleming"
   editor: "Alison Ziki"
-  publisher: ""
+  publisher: "Sharp Shoot"
   other: ""
 original-language: "Xitsonga"
 links:

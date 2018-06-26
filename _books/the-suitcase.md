@@ -8,7 +8,7 @@ contributors:
   illustrator: "Elizabeth Pulles"
   designer: "Leona Ingram, Karma Bosman and Riaan Coetzee"
   editor: "Katherine Hofmeyr"
-  publisher: ""
+  publisher: "Abantwana"
   other: ""
 original-language: "Siswati"
 links:

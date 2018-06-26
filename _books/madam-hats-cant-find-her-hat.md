@@ -8,7 +8,7 @@ contributors:
   illustrator: "Reshoketswe Motau"
   designer: "RJ Palmer"
   editor: "Jocelyn Newmarch"
-  publisher: ""
+  publisher: "Balaodi"
   other: ""
 original-language: "Sepedi"
 links:

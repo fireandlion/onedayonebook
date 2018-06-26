@@ -8,7 +8,7 @@ contributors:
   illustrator: "Gerda Smit"
   designer: "Jennifer Jacobs"
   editor: "Jocelyn Newmarch"
-  publisher: ""
+  publisher: "Abantwana"
   other: ""
 original-language: "Siswati"
 links:

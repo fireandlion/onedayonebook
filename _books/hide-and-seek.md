@@ -8,7 +8,7 @@ contributors:
   illustrator: "Joseph Somwe"
   designer: "Jess Jardim-Wedephol"
   editor: "Anna Stroud"
-  publisher: ""
+  publisher: "Sharp Shoot"
   other: ""
 original-language: "Xitsonga"
 links:

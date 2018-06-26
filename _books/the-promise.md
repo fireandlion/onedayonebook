@@ -8,7 +8,7 @@ contributors:
   illustrator: "Subi Bosa"
   designer: "Jennifer Jacobs"
   editor: "Fiona Wallace"
-  publisher: ""
+  publisher: "Indwe"
   other: ""
 original-language: "isiZulu"
 links:

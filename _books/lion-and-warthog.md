@@ -8,7 +8,7 @@ contributors:
   illustrator: "Joseph Somwe"
   designer: "Caitlin Sloane"
   editor: "Alison Ziki"
-  publisher: ""
+  publisher: "Indwe"
   other: ""
 original-language: "isiZulu"
 links:

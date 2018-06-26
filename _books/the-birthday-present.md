@@ -8,7 +8,7 @@ contributors:
   illustrator: "Kholofelo Mothle"
   designer: "Daniella van den Heever"
   editor: "Anna Stroud"
-  publisher: ""
+  publisher: "Balaodi"
   other: ""
 original-language: "Sepedi"
 links:

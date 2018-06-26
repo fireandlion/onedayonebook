@@ -8,7 +8,7 @@ contributors:
   illustrator: "Sinomonde Ngwane"
   designer: "Vivienne Preston"
   editor: "Alison Ziki"
-  publisher: ""
+  publisher: "Limpopo Faces"
   other: ""
 original-language: "Tshivenda"
 links:

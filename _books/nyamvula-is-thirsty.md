@@ -8,7 +8,7 @@ contributors:
   illustrator: "Nompumelelo Mdluli"
   designer: "Liam Longland"
   editor: "Katherine Hofmeyr"
-  publisher: ""
+  publisher: "Limpopo Faces"
   other: ""
 original-language: "Tshivenda"
 links:

@@ -8,7 +8,7 @@ contributors:
   illustrator: "Shayne Capazorio"
   designer: "Leah Prinsloo"
   editor: "Alison Ziki"
-  publisher: ""
+  publisher: "Abantwana"
   other: ""
 original-language: "Siswati"
 links:

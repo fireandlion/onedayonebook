@@ -8,7 +8,7 @@ contributors:
   illustrator: "Gerda Smit"
   designer: "Jennifer Jacobs"
   editor: "Katherine Hofmeyr"
-  publisher: ""
+  publisher: "Balaodi"
   other: ""
 original-language: "Sepedi"
 links:

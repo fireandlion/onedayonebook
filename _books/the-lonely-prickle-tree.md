@@ -8,7 +8,7 @@ contributors:
   illustrator: "Subi Bosa"
   designer: "Aimee Ayres"
   editor: "Jocelyn Newmarch"
-  publisher: ""
+  publisher: "Sharp Shoot"
   other: ""
 original-language: "Xitsonga"
 links:

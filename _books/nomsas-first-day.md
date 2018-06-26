@@ -8,7 +8,7 @@ contributors:
   illustrator: "Aimee Ayres"
   designer: "Tshebetso Ditabo"
   editor: "Fiona Wallace"
-  publisher: ""
+  publisher: "Limpopo Faces"
   other: ""
 original-language: "Tshivenda"
 links:

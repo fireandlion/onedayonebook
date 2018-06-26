@@ -8,7 +8,7 @@ contributors:
   illustrator: "Imile Wepener"
   designer: "Louisa Pieters"
   editor: "Jocelyn Newmarch"
-  publisher: ""
+  publisher: "Limpopo Faces"
   other: ""
 original-language: "Tshivenda"
 links:
