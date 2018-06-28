@@ -8,11 +8,10 @@ contributors:
   illustrator: "Kholofelo Mothle"
   designer: "Daniella van den Heever"
   editor: "Anna Stroud"
-  publisher: "Balaodi"
+  publisher: "Balaodi Publishers"
   other: ""
 original-language: "Sepedi"
 links:
-  publisher-url: ""
   source-files: ""
   pdf-ebook: ""
 images:
@@ -30,7 +29,6 @@ images:
   dps-10: ""
   dps-11: ""
   copyright-page: ""
-  publisher-logo: ""
 ---
 
 {% include book-page.html %}

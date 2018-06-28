@@ -8,11 +8,10 @@ contributors:
   illustrator: "Jess Jardim-Wedepohl"
   designer: "Jess Jardim-Wedepohl"
   editor: "Jocelyn Newmarch"
-  publisher: "Indwe"
+  publisher: "Indwe Publishers"
   other: ""
 original-language: "isiZulu"
 links:
-  publisher-url: ""
   source-files: ""
   pdf-ebook: ""
 images:
@@ -30,7 +29,6 @@ images:
   dps-10: ""
   dps-11: ""
   copyright-page: ""
-  publisher-logo: ""
 ---
 
 {% include book-page.html %}

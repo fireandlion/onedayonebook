@@ -8,11 +8,10 @@ contributors:
   illustrator: "Joseph Somwe"
   designer: "Caitlin Sloane"
   editor: "Alison Ziki"
-  publisher: "Indwe"
+  publisher: "Indwe Publishers"
   other: ""
 original-language: "isiZulu"
 links:
-  publisher-url: ""
   source-files: ""
   pdf-ebook: ""
 images:
@@ -30,7 +29,6 @@ images:
   dps-10: ""
   dps-11: ""
   copyright-page: ""
-  publisher-logo: ""
 ---
 
 {% include book-page.html %}

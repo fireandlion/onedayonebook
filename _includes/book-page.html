@@ -1,14 +1,55 @@
 <div class="book-page">
 	<h1>{{ page.title }}</h1>
 
+	{% comment %}Subheadline{% endcomment %}
 	{% if page.original-language and page.original-language != "" %}
 		<p class="subheadline">Originally written in {{ page.original-language }}</p>
 	{% endif %}
 
+	{% comment %}Publisher and logo, if any{% endcomment %}
+	{% if page.contributors.publisher and page.contributors.publisher != "" %}
+
+		{% assign publisher-data = site.data.organisations | where: 'name', page.contributors.publisher %}
+
+		<p class="image-with-caption book-publisher">
+
+			{% if publisher-data[0].logo and publisher-data[0].logo != "" %}
+
+				{% if publisher-data[0].url and publisher-data[0].url != "" %}
+						<a href="{{ publisher-data[0].url }}">
+				{% endif %}
+
+					{% capture publisher-logo-file %}{{ publisher-data[0].logo }}{% endcapture %}
+					{% include image file=publisher-logo-file class="book-publisher-logo" %}
+
+				{% if publisher-data[0].url and publisher-data[0].url != "" %}
+					</a>
+				{% endif %}
+
+			{% endif %}
+
+				Supported by<br />
+
+					{% if publisher-data[0].url and publisher-data[0].url != "" %}
+						<a href="{{ publisher-data[0].url }}">
+					{% endif %}
+
+					{{ page.contributors.publisher }}
+
+					{% if publisher-data[0].url and publisher-data[0].url != "" %}
+						</a>
+					{% endif %}
+
+		</p>
+
+	{% endif %}
+
+	{% comment %}Description{% endcomment %}
 	<p class="book-description">
 		{{ page.description }}
 	</p>
 
+	{% comment %}Contributors{% endcomment %}
 	<ul>
 		{% if page.contributors.writer and page.contributors.writer != "" %}
 			<li>Written by {{ page.contributors.writer }}</li>
@@ -24,40 +65,7 @@
 		{% endif %}
 	</ul>
 
-	{% if page.contributors.publisher and page.contributors.publisher != "" %}
-
-		<p class="image-with-caption">
-
-			{% if page.images.publisher-logo and page.images.publisher-logo != "" %}
-
-				{% if page.links.publisher-url and page.links.publisher-url != "" %}
-						<a href="{{ page.links.publisher-url }}">
-				{% endif %}
-
-					{% include image file=page.images.publisher-logo class="book-publisher-logo" %}
-
-				{% if page.links.publisher-url and page.links.publisher-url != "" %}
-					</a>
-				{% endif %}
-
-			{% endif %}
-
-				Supported by 
-
-					{% if page.links.publisher-url and page.links.publisher-url != "" %}
-						<a href="{{ page.links.publisher-url }}">
-					{% endif %}
-
-					{{ page.contributors.publisher }}
-
-					{% if page.links.publisher-url and page.links.publisher-url != "" %}
-						</a>
-					{% endif %}
-
-		</p>
-
-	{% endif %}
-
+	{% comment %}Download links{% endcomment %}
 	<div class="book-links">
 		{% if page.links.pdf-ebook and page.links.pdf-ebook != "" %}
 			<a href="{{ page.links.pdf-ebook }} class="button">Download PDF</a>
@@ -67,6 +75,7 @@
 		{% endif %}
 	</div>
 
+	{% comment %}Images of the book cover and spreads{% endcomment %}
 	<div class="book-images">
 
 		{% if page.images.cover and page.images.cover != "" %}

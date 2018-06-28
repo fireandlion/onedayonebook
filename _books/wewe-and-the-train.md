@@ -8,11 +8,10 @@ contributors:
   illustrator: "Shayne Capazorio"
   designer: "Leah Prinsloo"
   editor: "Alison Ziki"
-  publisher: "Abantwana"
+  publisher: "Abantwana Publishing"
   other: ""
 original-language: "Siswati"
 links:
-  publisher-url: ""
   source-files: ""
   pdf-ebook: ""
 images:
@@ -30,7 +29,6 @@ images:
   dps-10: ""
   dps-11: ""
   copyright-page: ""
-  publisher-logo: ""
 ---
 
 {% include book-page.html %}

@@ -68,13 +68,13 @@ $break-point-l: $content-width + $side-nav-width + 30em;
 // the template partials just imported.
 
 body {
-	background-image: url('../images/reading.png');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: right bottom;
-	background-size: 100px;
+	// Add image on big screens
 	@media only screen and (min-width: $break-point-l) {
-		background-size: 200px;
+		background-image: url('../images/boy.png');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: 95% 100%;
+		background-size: 150px;
 	}
 }
 
@@ -190,9 +190,17 @@ blockquote {
 }
 
 // Book pages
-.book-publisher-logo {
-	float: right;
-	max-width: 5em;
+.book-publisher {
+    width: 10em;
+    max-width: 50%;
+    float: right;
+    margin: 0 0 1em 1em;
+    box-shadow: 0px 0px 5px #ccc;
+    background-color: white;
+    padding: 0.5em;
+	.book-publisher-logo {
+		max-width: 100%;
+	}
 }
 
 // Page navigation
