@@ -11,6 +11,9 @@ contributors:
   publisher: "Indwe Publishers"
   other: ""
 original-language: "isiZulu"
+price:
+  default: ""
+  en: ""
 links:
   source-files: ""
   pdf-ebook: ""

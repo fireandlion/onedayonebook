@@ -188,6 +188,14 @@ blockquote {
 		max-width: 50%;
 	}
 }
+.pricing {
+	border: 1px solid $text-color-mid;
+	padding: 0.5em;
+	margin-bottom: $line-height * 1em;
+	& *:last-child {
+		margin-bottom: 0;
+	}
+}
 
 // Book pages
 .book-publisher {

@@ -15,6 +15,21 @@
 		<li>Edited by {{ book.contributors.editor }}</li>
 	</ul>
 
+	{% if book.price.default and book.price.default != "" %}
+		<div class="pricing">
+			<h4>Pricing</h4>
+			<p>Price per copy when ordering 100 copies or more:</p>
+			<ul>
+				{% if book.price.default and book.price.default != "" %}
+					<li class="book-listing-price-default">R{{ book.price.default }}</li>
+				{% endif %}
+				{% if book.price.en and book.price.en != "" %}
+					<li class="book-listing-price-en">English: R{{ book.price.en }}</li>
+				{% endif %}
+			</ul>
+		</div>
+	{% endif %}
+
 	<p>
 		<a href="{{ book.url }}" class="button">See more</a>
 	</p>

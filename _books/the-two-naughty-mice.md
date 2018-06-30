@@ -11,6 +11,9 @@ contributors:
   publisher: "Abantwana Publishing"
   other: ""
 original-language: "Siswati"
+price:
+  default: ""
+  en: ""
 links:
   source-files: ""
   pdf-ebook: ""

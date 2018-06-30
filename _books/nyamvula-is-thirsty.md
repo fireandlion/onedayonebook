@@ -11,6 +11,9 @@ contributors:
   publisher: "Limpopo Faces"
   other: ""
 original-language: "Tshivenda"
+price:
+  default: ""
+  en: ""
 links:
   source-files: ""
   pdf-ebook: ""

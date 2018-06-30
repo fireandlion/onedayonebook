@@ -11,6 +11,9 @@ contributors:
   publisher: "Sharp Shoot"
   other: ""
 original-language: "Xitsonga"
+price:
+  default: ""
+  en: ""
 links:
   source-files: ""
   pdf-ebook: ""

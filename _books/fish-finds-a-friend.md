@@ -11,6 +11,9 @@ contributors:
   publisher: "Balaodi Publishers"
   other: ""
 original-language: "Sepedi"
+price:
+  default: ""
+  en: ""
 links:
   source-files: ""
   pdf-ebook: ""
