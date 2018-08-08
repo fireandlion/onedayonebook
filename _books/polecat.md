@@ -8,7 +8,7 @@ contributors:
   illustrator: "Reshoketwe Motau"
   designer: "Steven Mckimmie"
   editor: "Fiona Wallace"
-  publisher: "Indwe Publishers"
+  publisher: "Abantwana Publishing"
   other: ""
 original-language: "isiZulu"
 price:
