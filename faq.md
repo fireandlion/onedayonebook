@@ -4,17 +4,17 @@ title: Frequently asked questions
 
 # Frequently asked questions
 
-## Can I only order in July?
+## Can I only order in August?
 
-We are collecting book orders in July 2018 only so that we can pool orders together to make one, large print order. By creating one, large print order, everyone who orders books will benefit from lower prices.
+We are collecting book orders in August 2018 only so that we can pool orders together to make one, large print order. By creating one, large print order, everyone who orders books will benefit from lower prices.
 
-Usually, due to small orders, indigenous languages books are very expensive. Through this July ordering process, we are trying to make indigenous languages more affordable.
+Usually, due to small orders, indigenous languages books are very expensive. Through this August ordering process, we are trying to make indigenous languages more affordable.
 
-If you want to order books but it is not possible for you to order in July, please contact [Doreen.Mojapelo@roomtoread.org](mailto:Doreen.Mojapelo@roomtoread.org).
+If you want to order books but it is not possible for you to order in August, please contact [Doreen.Mojapelo@roomtoread.org](mailto:Doreen.Mojapelo@roomtoread.org).
 
 ## When will I be invoiced?
 
-After you place your book order in July, Room to Read will send you an invoice for the books you ordered. We expect invoices to go out in August and to be paid in September.
+After you place your book order in August, Room to Read will send you an invoice for the books you ordered. We expect invoices to go out in August and to be paid in September.
 
 ## When will I receive my books?
 
@@ -22,7 +22,7 @@ Printing will happen in October through December. Deliveries will happen immedia
 
 ## How much will books cost?
 
-We are currently working to identify a printer. Once a printer is identified, we will know the price of the books. We want to make these books available to as many children throughout South Africa as possible. We expect to set prices more than 50% below the average market price. Exact prices will be announced on this website in early-mid July.
+We are currently working to identify a printer. Once a printer is identified, we will know the price of the books. We want to make these books available to as many children throughout South Africa as possible. We expect to set prices more than 50% below the average market price. Exact prices will be announced on this website in early-mid August.
 
 ## Who can buy books?
 
