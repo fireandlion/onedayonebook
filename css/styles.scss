@@ -210,10 +210,21 @@ blockquote {
 		max-width: 100%;
 	}
 }
+.book-images {
+	img {
+		margin-bottom: $line-height * 1em;
+	}
+}
 
 // Page navigation
 .page-navigation {
 	margin-top: $line-height * 2em;
+}
+
+// Fineprint
+.fineprint {
+	font-size: $font-size * 0.8;
+	font-style: italic;
 }
 
 // Printing
