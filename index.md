@@ -41,7 +41,7 @@ provide them at a lower price!
 - Free – Johannesburg, Pretoria
 - R450 – Cape Town, Durban, Port Elizabeth
 
-  For all other delivery locations and orders over 1,200 copies, please inquire for delivery prices. All book and delivery prices above are not inclusive of VAT. Orders are subject to our [terms and conditions]({{ site.baseurl }}/terms).
+  For all other delivery locations, please inquire for delivery prices. All book and delivery prices above are not inclusive of VAT. Orders are subject to our [terms and conditions]({{ site.baseurl }}/terms).
   {:.fineprint}
 
 **Book size** 220mm x 220mm
