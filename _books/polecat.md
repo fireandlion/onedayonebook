@@ -10,7 +10,7 @@ contributors:
   editor: "Fiona Wallace"
   publisher: "Abantwana Publishing"
   other: ""
-original-language: "isiZulu"
+original-language: "Siswati"
 price:
   default: ""
   en: ""

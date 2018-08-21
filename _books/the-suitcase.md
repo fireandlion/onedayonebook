@@ -10,7 +10,7 @@ contributors:
   editor: "Katherine Hofmeyr"
   publisher: "Indwe Publishers"
   other: ""
-original-language: "Siswati"
+original-language: "IsiZulu"
 price:
   default: ""
   en: ""
