@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/4pzghy2wya5inyx/AAAbRJdOP7P7c9itO2zgUth4a?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/btndhhf2g7a9mn7/AAD6E21-Xkc-KMcsNe9Sy3_8a?dl=0"
 images:
   cover: "hide-and-seek_en_RTR_20180725_cover.jpg"
   title-page: "hide-and-seek_en_RTR_20180725_page1.jpg"

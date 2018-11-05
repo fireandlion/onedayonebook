@@ -211,6 +211,7 @@ blockquote {
 	}
 }
 .book-images {
+	margin-top: $line-height * 2em;
 	img {
 		margin-bottom: $line-height * 1em;
 	}

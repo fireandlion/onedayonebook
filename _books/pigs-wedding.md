@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/x2kjaorovghagkq/AAACYu5hwRG8oQTUVjWtY_Nba?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/lr0azd91tc52xrf/AADyJ6Fi2-Th8xk2MomtYun_a?dl=0"
 images:
   cover: "pigs-wedding_RTR_en_20180725_cover.jpg"
   title-page: "pigs-wedding_RTR_en_20180725_page1.jpg"

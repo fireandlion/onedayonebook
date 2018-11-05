@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/bejmhd5hiola9wh/AAC8UJoXf-trqTSCzqBUErsza?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/bcmvvs2a9msgzoh/AACKuyzJepJAaWnC23oWEcxAa?dl=0"
 images:
   cover: "lion-and-warthog_RTR_en_20180725_cover.jpg"
   title-page: "lion-and-warthog_RTR_en_20180725_page1.jpg"

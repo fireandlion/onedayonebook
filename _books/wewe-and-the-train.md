@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/bafxyrzl5blvq7f/AABOFJbDkc-z7zP46zomqVVta?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/2qy28cfg40bttff/AABpO2X1B0ixBMwn0eiyRm3Oa?dl=0"
 images:
   cover: "wewe-and-the-train_RTR_en_20180725_cover.jpg"
   title-page: "wewe-and-the-train_RTR_en_20180725_page1.jpg"

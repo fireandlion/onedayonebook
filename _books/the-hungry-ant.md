@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/ri1ebbite1zwehn/AABPz9mZlexrXkZ9BwAtEfbAa?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/6x6w501129naus5/AACdgJPPjhgMRXwBE0l-kZLKa?dl=0"
 images:
   cover: "the-hungry-ant_RTR_en_20180725_cover.jpg"
   title-page: "the-hungry-ant_RTR_en_20180725_page1.jpg"

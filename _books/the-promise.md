@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/ngsg834exbnh5u9/AABkWKjBOzV2XGtPeNLAOsqMa?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/ftjue1xbo6tssd7/AACsfmhOtFf4S5098SUqw0aka?dl=0"
 images:
   cover: "the-promise_RTR_en_20180726_cover.jpg"
   title-page: "the-promise_RTR_en_20180726_page1.jpg"

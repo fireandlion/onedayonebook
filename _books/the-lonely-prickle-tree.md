@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/riv9r96p6zjr1dz/AAD8_sSTYICYuIQZUvC4JgKGa?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/jk8oegtqf3smhd1/AABEBXM3_mzIqxIvgLHPcwqQa?dl=0"
 images:
   cover: "the-lonely-prickly-pear_RTR_en_20180725_cover.jpg"
   title-page: "the-lonely-prickly-pear_RTR_en_20180725_page1.jpg"

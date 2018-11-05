@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/xhycnmx0tb5hpg7/AAAg8HSSSN-DFPrsTnhLeDtVa?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/xy9ifispjvhcsg3/AACB1Dx2Dche704YQNX5p5a4a?dl=0"
 images:
   cover: "fish-finds-a-friend_RTR_en_20180725_cover.jpg"
   title-page: "fish-finds-a-friend_RTR_en_20180725_page1.jpg"

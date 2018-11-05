@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/80d5qp2bdkj8iet/AABenAGLoPIxg30yjiSdzSvma?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/hm0mr75unop4prs/AADFGXg3aSop5nx2wRrF2nfRa?dl=0"
 images:
   cover: "the-most-beautiful-animal_RTR_en_20180725_cover.jpg"
   title-page: "the-most-beautiful-animal_RTR_en_20180725_page1.jpg"

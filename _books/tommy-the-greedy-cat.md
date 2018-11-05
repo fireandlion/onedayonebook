@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/0r4cv86nhc3qx4h/AACgxiA6kXN0UTobH63Zsc8ha?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/imwibdwxaod7hdr/AABTnSsaHYQA70q53hH_-Zw9a?dl=0"
 images:
   cover: "tommy-the-greedy-cat_RTR_en_20180725_cover.jpg"
   title-page: "tommy-the-greedy-cat_RTR_en_20180725_page1.jpg"

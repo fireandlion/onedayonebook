@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/9dez4mxvxrig6bf/AAAazgTC6td7nH27TsaZh81La?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/rx29s3qco0a4y43/AAB32_e3EGShoH4RuULqatx4a?dl=0"
 images:
   cover: "nomsas-first-day_en_RTR_20180725_cover.jpg"
   title-page: "nomsas-first-day_en_RTR_20180725_page1.jpg"

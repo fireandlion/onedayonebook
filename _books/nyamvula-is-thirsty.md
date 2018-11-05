@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/t5syrgle4vv2mig/AADqObQkEA2OQRlHySCxUd3_a?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/gp6giq2v8nms0m8/AACAlkxi4frcSO2yez9usYbUa?dl=0"
 images:
   cover: "nyamvula-is-thirsty_RTR_en_20180725_cover.jpg"
   title-page: "nyamvula-is-thirsty_RTR_en_20180725_page1.jpg"

@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/cnaljd65s69d7sw/AABWHHH_WhFrR4D5g3T_GgApa?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/fmwqxgc30v5hqiz/AABuCUDYIi4IIx3EClYWxhK8a?dl=0"
 images:
   cover: "nono-finds-a-friend_RTR_en_20180725_cover.jpg"
   title-page: "nono-finds-a-friend_RTR_en_20180725_page1.jpg"

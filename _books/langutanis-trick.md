@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/lzc7105h35iww2i/AAAAVTHcDGDCDb-2PQaixv-_a?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/mkktq1x1lhe7nkl/AAAlEt1KtpQECWSf8aca3Qv5a?dl=0"
 images:
   cover: "langutanis-trick_RTR_en_20180725_cover.jpg"
   title-page: "langutanis-trick_RTR_en_20180725_page1.jpg"

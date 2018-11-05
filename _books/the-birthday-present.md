@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/ptp66wpnetgezng/AABG5EMCwxpdMM2IxuKHhNEra?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/2yxfexjoe7w8djx/AABL1KKUYOz-XaqPnIwr5A-Ea?dl=0"
 images:
   cover: "the-birthday-present_en_RTR_20180725_cover.jpg"
   title-page: "the-birthday-present_en_RTR_20180725_page1.jpg"

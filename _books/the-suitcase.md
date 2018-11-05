@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/8t9bb14tyblan0u/AADdoAygPbUQEAGNJoJtMElra?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/fl9x8prymqalp89/AAD5tA1dfuZH-Alt3rb67TUAa?dl=0"
 images:
   cover: "the-suitcase_en_RTR_20180725_cover.jpg"
   title-page: "the-suitcase_en_RTR_20180725_page1.jpg"

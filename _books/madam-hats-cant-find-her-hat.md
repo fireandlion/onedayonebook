@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/hug0d441e6rd6tw/AACf70HmQ8KR7YAiDZyMf_50a?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/z6c6yqq4s5lvozw/AAAO8oAHs2M1MYIlpuyuP4ZQa?dl=0"
 images:
   cover: "madam-hats-cant-find-her-hat_en_RTR_20180725_cover.jpg"
   title-page: "madam-hats-cant-find-her-hat_en_RTR_20180725_page1.jpg"

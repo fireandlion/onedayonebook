@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/yysthfkb93r37de/AADxqTJi4285WTKWpWRua0Pda?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/pca4gp752dqlwdn/AADXW58yKbJ8n0_neJGVx50Ha?dl=0"
 images:
   cover: "the-two-naughty-mice_RTR_en_20180725_cover.jpg"
   title-page: "the-two-naughty-mice_RTR_en_20180725_page1.jpg"

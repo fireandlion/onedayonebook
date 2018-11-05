@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/4dkq6ssbibzsol8/AACnFwf8rp227xVr8Slp6eIqa?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/pp52jpdkncxywld/AAADjfGu6mOXe-hqKbPdkLSsa?dl=0"
 images:
   cover: "polecat_interior_en_RTR_20180725_cover.jpg"
   title-page: "polecat_interior_en_RTR_20180725_page1.jpg"

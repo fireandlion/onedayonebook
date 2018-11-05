@@ -15,8 +15,8 @@ price:
   default: ""
   en: ""
 links:
-  source-files: ""
-  pdf-ebook: ""
+  source-files: "https://www.dropbox.com/sh/abz2a3m07hnrrzp/AACPi7cJphISHRbq2T5YqtVca?dl=0"
+  pdf-ebook: "https://www.dropbox.com/sh/gz0n69ojjoazztz/AADBTZ62hvc1ouFwRAvpfj1ua?dl=0"
 images:
   cover: "the-greedy-dog_ODOB_en_20180725_cover.jpg"
   title-page: "the-greedy-dog_RTR_en_20180725_page1.jpg"
