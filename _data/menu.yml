@@ -9,11 +9,7 @@
 
 - label: "Home"
   link: ""
-- label: "Ordering"
-  link: "#order"
 - label: "Books"
   link: "#books"
-- label: "FAQ"
-  link: "faq"
 - label: "About"
   link: "about"
