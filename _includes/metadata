@@ -1,0 +1,30 @@
+ {% comment %}
+Provide site and page metadata as Liquid variables
+that we can use on pages as output tags.
+{% endcomment %}
+
+{% comment %}Don't do all this work if metadata
+is already loaded on this page.{% endcomment %}
+{% if metadata-loaded %}
+{% else %}
+
+    {% comment %} Default to the site language {% endcomment %}
+    {% assign language = site.data.settings.language %}
+
+    {% comment %} Detect if we're on a page with a different language {% endcomment %}
+
+    {% comment %} First, guess at the language from the URL.
+    If the last part of the URL is a language code, that's probably it. {% endcomment %}
+    {% assign language-guess-array = page.url | split: "/" %}
+    {% assign language-guess = language-guess-array[-1] %}
+    {% for locale in site.data.locales %}
+        {% if language-guess == locale[0] %}
+            {% assign language = language-guess %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign locale = site.data.locales[language] %}
+
+{% comment %}End of entire metadata load.{% endcomment %}
+{% assign metadata-loaded = true %}
+{% endif %}{% comment %}i.e. metadata-loaded {% endcomment %}

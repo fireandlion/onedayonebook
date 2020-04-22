@@ -18,5 +18,11 @@ This project is funded by Results in Education for All Children (REACH) trust fu
 ## Books
 
 {% for book in site.books %}
+
+{% comment %} List the books in their English form. {% endcomment %}
+{% capture book-locale %}{{ book.url | split: "/" | last }}{% endcapture %}
+{% if book-locale == "en" %}
 {% include book-listing.html %}
+{% endif %}
+
 {% endfor %}
