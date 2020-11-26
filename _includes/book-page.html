@@ -1,9 +1,12 @@
+{% include metadata %}
+
+
 <div class="book-page">
 	<h1>{{ page.title }}</h1>
 
 	{% comment %}Subheadline{% endcomment %}
 	{% if page.original-language and page.original-language != "" %}
-		<p class="subheadline">Originally written in {{ page.original-language }}</p>
+		<p class="subheadline">{{ locale.book.originally-in }} {{ page.original-language }}</p>
 	{% endif %}
 
 	{% comment %}Publisher and logo, if any{% endcomment %}
@@ -28,7 +31,7 @@
 
 			{% endif %}
 
-				Supported by<br />
+				{{ locale.book.supported-by }}<br />
 
 					{% if publisher-data[0].url and publisher-data[0].url != "" %}
 						<a href="{{ publisher-data[0].url }}">
@@ -52,26 +55,26 @@
 	{% comment %}Contributors{% endcomment %}
 	<ul>
 		{% if page.contributors.writer and page.contributors.writer != "" %}
-			<li>Written by {{ page.contributors.writer }}</li>
+			<li>{{ locale.book.written-by }} {{ page.contributors.writer }}</li>
 		{% endif %}
 		{% if page.contributors.illustrator and page.contributors.illustrator != "" %}
-			<li>Illustrated by {{ page.contributors.illustrator }}</li>
+			<li>{{ locale.book.illustrated-by }} {{ page.contributors.illustrator }}</li>
 		{% endif %}
 		{% if page.contributors.designer and page.contributors.designer != "" %}
-			<li>Designed by {{ page.contributors.designer }}</li>
+			<li>{{ locale.book.designed-by }} {{ page.contributors.designer }}</li>
 		{% endif %}
 		{% if page.contributors.editor and page.contributors.editor != "" %}
-			<li>Edited by {{ page.contributors.editor }}</li>
+			<li>{{ locale.book.edited-by }} {{ page.contributors.editor }}</li>
 		{% endif %}
 	</ul>
 
 	{% comment %}Download links{% endcomment %}
 	<div class="book-links">
 		{% if page.links.pdf-ebook and page.links.pdf-ebook != "" %}
-			<a href="{{ page.links.pdf-ebook }}" class="button">Download PDF</a>
+			<a href="{{ page.links.pdf-ebook }}" class="button">{{ locale.book.download-pdf }}</a>
 		{% endif %}
 		{% if page.links.source-files and page.links.source-files != "" %}
-			<a href="{{ page.links.source-files }}" class="button">Source files</a>
+			<a href="{{ page.links.source-files }}" class="button">{{ locale.book.source-files }}</a>
 		{% endif %}
 	</div>
 

@@ -142,6 +142,15 @@ en:
   input:
     send: "Send"
     submit: "Submit"
+  book:
+    written-by: "Written by"
+    illustrated-by: "Illustrated by"
+    designed-by: "Designed by"
+    edited-by: "Edited by"
+    originally-in: "Originally written in"
+    supported-by: "Supported by"
+    download-pdf: "Download PDF"
+    source-files: "Source files"
 # eo:
 #   iso-name: "Esperanto"
 #   local-name: ""
@@ -160,25 +169,9 @@ en:
 # fi:
 #   iso-name: "Finnish"
 #   local-name: ""
-fr:
-  iso-name: "French"
-  local-name: "Français"
-  contact:
-    label:
-      email: "L’adresse e-mail"
-      message: "Message"
-      name: "Nom"
-    placeholder:
-      email: "nom@example.com"
-      message: "Message"
-      name: "Nom"
-  excerpt:
-    more: "Lire la suite"
-  footer:
-    credit: "Construit avec le [Fire and Lion] (https://fireandlion.com) [modèle Jekyll] (https://github.com/fireandlion/jekyll-starter)."
-  input:
-    send: "Envoyer"
-    submit: "Soumettre"
+# fr:
+#   iso-name: "French"
+#   local-name: "Français"
 # ff:
 #   iso-name: "Fula, Fulah, Pulaar, Pular"
 #   local-name: ""
@@ -587,9 +580,34 @@ fr:
 # zu:
 #   iso-name: "Zulu"
 #   local-name: ""
-# nso:
-#   iso-name: "Sepedi/Nothern Sotho"
-#   local-name: ""
+nso:
+  iso-name: "Sepedi/Nothern Sotho"
+  local-name: "Sepedi"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "Written by*"
+    illustrated-by: "Illustrated by*"
+    designed-by: "Designed by*"
+    edited-by: "Edited by*"
+    originally-in: "Originally written in*"
+    supported-by: "Supported by*"
+    download-pdf: "Download PDF*"
+    source-files: "Source files*"
 # tuv:
 #   iso-name: "Turkana"
 #   local-name: ""

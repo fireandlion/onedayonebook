@@ -1,12 +1,8 @@
 # One Day One Book
 
-This site was built from Fire and Lion's [Jekyll Starter](https://github.com/fireandlion/jekyll-starter) template.
-
-## Usage
-
 This site is built with [Jekyll](https://jekyllrb.com). Follow the installation and running [instructions for Jekyll](https://jekyllrb.com/docs/home/) to install and run it locally.
 
-### Building the live website
+## Building the live website
 
 This project can be set up to use GitHub Pages as its live web host. This means that any changes committed to the master branch of this repository will be built into the live site immediately.
 

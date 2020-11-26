@@ -1,3 +1,5 @@
+{% include metadata %}
+
 <div class="book-listing">
 
 	<h3><a href="{{ book.url }}">{{ book.title }}</a></h3>
@@ -9,10 +11,10 @@
 	<p>{{ book.description }}</p>
 
 	<ul>
-		<li>Written {% if book.original-language and book.original-language != "" %}in {{ book.original-language }}{% endif %} by {{ book.contributors.writer }}</li>
-		<li>Illustrated by {{ book.contributors.illustrator }}</li>
-		<li>Designed by {{ book.contributors.designer }}</li>
-		<li>Edited by {{ book.contributors.editor }}</li>
+		<li>{{ locale.book.written-by }} {% if book.original-language and book.original-language != "" %}in {{ book.original-language }}{% endif %} by {{ book.contributors.writer }}</li>
+		<li>{{ locale.book.illustrated-by }} {{ book.contributors.illustrator }}</li>
+		<li>{{ locale.book.designed-by }} {{ book.contributors.designer }}</li>
+		<li>{{ locale.book.edited-by }} {{ book.contributors.editor }}</li>
 	</ul>
 
 	{% if book.price.default and book.price.default != "" %}
@@ -31,7 +33,14 @@
 	{% endif %}
 
 	<p>
-		<a href="{{ book.url }}" class="button">See more</a>
+		{% for language in site.data.locales %}
+			
+			{% capture book-url %}{{ book.url | replace: "/en", "" }}{{ language[0] }}{% endcapture %}
+
+			<a href="{{ book-url }}" class="button">
+				{{ language[1].local-name }}
+			</a>
+		{% endfor %}
 	</p>
 
 </div>
